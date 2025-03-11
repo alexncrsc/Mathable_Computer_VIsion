@@ -21,3 +21,7 @@ Pasul 4: Inputul de la scriptul 4 este calea catre cele 200 de masti * folderul 
 Pasul 5: input_dir este in scriptul 5 calea catre cele 200 de imagini cu numerele adaugate cropuite *folderul tiles*, iar positions_dir este calea catre txt-urile cu pozitiile care vor fi ulterior modificate *folderul fisiere_txt*.
 
 Pasul 6: In path-ul de output al fisierelor dupa pasul 5, trebuie sa se afle 200 de txt cu pozitia si numarul adaugat la fiecare pas.
+
+
+Link de baza pentru dataset initial:
+https://www.dropbox.com/scl/fo/eyglepmm2lfec0fei9hs0/ALZWu9fs0Ff4LoWU0J72knw?rlkey=dbu1s54dnm8wfqr9s63tc3ne7&e=1&st=v451trvt&dl=0
